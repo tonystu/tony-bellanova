@@ -1,0 +1,20 @@
+TONY BELLANOVA / GITHUB PAGES EDITION
+
+1. Extract this ZIP. Do NOT upload the ZIP itself to GitHub.
+2. Create a PUBLIC GitHub repository named tony-bellanova.
+   Turn on Add README so the main branch exists.
+3. Use Add file > Upload files. Upload everything INSIDE this extracted folder.
+   index.html must be at the TOP LEVEL of the repository, not in a wrapper folder.
+   Keep assets/, audio/ and video/ as folders. Commit to main.
+4. Settings > Pages:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: /(root)
+   Save.
+5. After a successful deployment, use Visit site and share that address.
+
+Example only: https://YOUR-USERNAME.github.io/tony-bellanova/
+
+All media is included. No installer, build tools, paid plugin or API key needed.
+This archive does not publish itself. GitHub Pages needs the setup above.
+Full instructions and troubleshooting: README.md
